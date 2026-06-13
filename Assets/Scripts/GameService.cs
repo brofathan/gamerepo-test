@@ -6,7 +6,8 @@ namespace Game
     {
         FreeRoam,
         Dialog,
-        Battle
+        Battle,
+        Tambahan
     }
     public class GameService : MonoBehaviour
     {
